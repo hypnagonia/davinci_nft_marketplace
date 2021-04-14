@@ -1,4 +1,4 @@
-pragma solidity ^0.6.12;
+pragma solidity ^0.5.17;
 pragma experimental ABIEncoderV2;
 
 import "../lib/interface/IERC721.sol";
